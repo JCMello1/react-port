@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer",
+    "organization": "San Sebastian University",
+    "startDate": "Sept, 2017",
+    "endDate": "Present",
+    "experiences": ["Worked on Static college websites", "New design increased enrollment by 25%"],
+    "imageSrc": "history/USS.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organization": "Live strong House",
+    "startDate": "Aug, 2022",
+    "endDate": "Current",
+    "experiences": ["Currently working on reformating the company's website"],
+    "imageSrc": "history/LSH.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organization": "Freelance",
+    "startDate": "Ongoing",
+    "endDate": "Ongoing",
+    "experiences": [
+      "Building a website for a small Chilean business",
+      "Helped increase profits by 30%"
+    ],
+    "imageSrc": "history/ChileFlag.png"
+  }
+]
